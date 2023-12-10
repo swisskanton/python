@@ -1,0 +1,1537 @@
+{
+    "series": [
+        {
+            "broadcast": "2017.07.16",
+            "title": "Games",
+            "episode": "7x01",
+            "duration": 60,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.07.23",
+            "title": "Games",
+            "episode": "7x02",
+            "duration": 60,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.07.30",
+            "title": "Games",
+            "episode": "7x03",
+            "duration": 60,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.08.06",
+            "title": "Games",
+            "episode": "7x04",
+            "duration": 60,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.08.13",
+            "title": "Games",
+            "episode": "7x05",
+            "duration": 60,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.08.20",
+            "title": "Games",
+            "episode": "7x06",
+            "duration": 60,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.08.27",
+            "title": "Games",
+            "episode": "7x07",
+            "duration": 60,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.06",
+            "title": "The Fable",
+            "episode": "7x01",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.13",
+            "title": "The Fable",
+            "episode": "7x02",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.20",
+            "title": "The Fable",
+            "episode": "7x03",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.27",
+            "title": "The Fable",
+            "episode": "7x04",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.03",
+            "title": "The Fable",
+            "episode": "7x05",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.10",
+            "title": "The Fable",
+            "episode": "7x06",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.17",
+            "title": "The Fable",
+            "episode": "7x07",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.17",
+            "title": "The Fable",
+            "episode": "7x08",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.08",
+            "title": "The Fable",
+            "episode": "7x09",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.15",
+            "title": "The Fable",
+            "episode": "7x10",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.03.02",
+            "title": "The Fable",
+            "episode": "7x11",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "The Fable",
+            "episode": "7x12",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "The Fable",
+            "episode": "7x13",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "The Fable",
+            "episode": "7x14",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.11",
+            "title": "The IT Guy",
+            "episode": "3x01",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.18",
+            "title": "The IT Guy",
+            "episode": "3x02",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.25",
+            "title": "The IT Guy",
+            "episode": "3x03",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.01",
+            "title": "The IT Guy",
+            "episode": "3x04",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.08",
+            "title": "The IT Guy",
+            "episode": "3x05",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.15",
+            "title": "The IT Guy",
+            "episode": "3x06",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.22",
+            "title": "The IT Guy",
+            "episode": "3x07",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.29",
+            "title": "The IT Guy",
+            "episode": "3x08",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.06",
+            "title": "The IT Guy",
+            "episode": "3x09",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.13",
+            "title": "The IT Guy",
+            "episode": "3x10",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.09.28",
+            "title": "The Hospital",
+            "episode": "14x01",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.09.28",
+            "title": "The Hospital",
+            "episode": "14x02",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.05",
+            "title": "The Hospital",
+            "episode": "14x03",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.12",
+            "title": "The Hospital",
+            "episode": "14x04",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.26",
+            "title": "The Hospital",
+            "episode": "14x05",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.02",
+            "title": "The Hospital",
+            "episode": "14x06",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.09",
+            "title": "The Hospital",
+            "episode": "14x07",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.16",
+            "title": "The Hospital",
+            "episode": "14x08",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.18",
+            "title": "The Hospital",
+            "episode": "14x09",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.09.27",
+            "title": "The Killers",
+            "episode": "13x01",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.04",
+            "title": "The Killers",
+            "episode": "13x02",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.11",
+            "title": "The Killers",
+            "episode": "13x03",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.18",
+            "title": "The Killers",
+            "episode": "13x04",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.25",
+            "title": "The Killers",
+            "episode": "13x05",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.08",
+            "title": "The Killers",
+            "episode": "13x06",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.15",
+            "title": "The Killers",
+            "episode": "13x07",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.22",
+            "title": "The Killers",
+            "episode": "13x08",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.06",
+            "title": "The Killers",
+            "episode": "13x09",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.03",
+            "title": "The Killers",
+            "episode": "13x10",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.10",
+            "title": "The Killers",
+            "episode": "13x11",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.17",
+            "title": "The Killers",
+            "episode": "13x12",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.02",
+            "title": "Maniac Man",
+            "episode": "3x01",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.09",
+            "title": "Maniac Man",
+            "episode": "3x02",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.16",
+            "title": "Maniac Man",
+            "episode": "3x03",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.23",
+            "title": "Maniac Man",
+            "episode": "3x04",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.30",
+            "title": "Maniac Man",
+            "episode": "3x05",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.06",
+            "title": "Maniac Man",
+            "episode": "3x06",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.13",
+            "title": "Maniac Man",
+            "episode": "3x07",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.20",
+            "title": "Maniac Man",
+            "episode": "3x08",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.04",
+            "title": "Maniac Man",
+            "episode": "3x09",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.11",
+            "title": "Maniac Man",
+            "episode": "3x10",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.01",
+            "title": "Maniac Man",
+            "episode": "3x11",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Maniac Man",
+            "episode": "3x12",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Maniac Man",
+            "episode": "3x13",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Maniac Man",
+            "episode": "3x14",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Maniac Man",
+            "episode": "3x15",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.29",
+            "title": "Adventures with Eric",
+            "episode": "5x01",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.29",
+            "title": "Adventures with Eric",
+            "episode": "5x02",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.06",
+            "title": "Adventures with Eric",
+            "episode": "5x03",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.13",
+            "title": "Adventures with Eric",
+            "episode": "5x04",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.20",
+            "title": "Adventures with Eric",
+            "episode": "5x05",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.27",
+            "title": "Adventures with Eric",
+            "episode": "5x06",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.03",
+            "title": "Adventures with Eric",
+            "episode": "5x07",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.10",
+            "title": "Adventures with Eric",
+            "episode": "5x08",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.17",
+            "title": "Adventures with Eric",
+            "episode": "5x09",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.24",
+            "title": "Adventures with Eric",
+            "episode": "5x10",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.09.26",
+            "title": "Military Police",
+            "episode": "15x01",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.03",
+            "title": "Military Police",
+            "episode": "15x02",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.10",
+            "title": "Military Police",
+            "episode": "15x03",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.17",
+            "title": "Military Police",
+            "episode": "15x04",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.24",
+            "title": "Military Police",
+            "episode": "15x05",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.31",
+            "title": "Military Police",
+            "episode": "15x06",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.07",
+            "title": "Military Police",
+            "episode": "15x07",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.14",
+            "title": "Military Police",
+            "episode": "15x08",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.21",
+            "title": "Military Police",
+            "episode": "15x09",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.12",
+            "title": "Military Police",
+            "episode": "15x10",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.02",
+            "title": "Military Police",
+            "episode": "15x11",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.09",
+            "title": "Military Police",
+            "episode": "15x12",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.01",
+            "title": "The Streets of LA",
+            "episode": "9x01",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.08",
+            "title": "The Streets of LA",
+            "episode": "9x02",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.15",
+            "title": "The Streets of LA",
+            "episode": "9x03",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.22",
+            "title": "The Streets of LA",
+            "episode": "9x04",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.29",
+            "title": "The Streets of LA",
+            "episode": "9x05",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.05",
+            "title": "The Streets of LA",
+            "episode": "9x06",
+            "duration": 40,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.12",
+            "title": "The Streets of LA",
+            "episode": "9x07",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.19",
+            "title": "The Streets of LA",
+            "episode": "9x08",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.26",
+            "title": "The Streets of LA",
+            "episode": "9x09",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.10",
+            "title": "The Streets of LA",
+            "episode": "9x10",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.17",
+            "title": "The Streets of LA",
+            "episode": "9x11",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.07",
+            "title": "The Streets of LA",
+            "episode": "9x12",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.14",
+            "title": "The Streets of LA",
+            "episode": "9x13",
+            "duration": 40,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.27",
+            "title": "Puzzles",
+            "episode": "3x01",
+            "duration": 43,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.03",
+            "title": "Puzzles",
+            "episode": "3x02",
+            "duration": 43,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.10",
+            "title": "Puzzles",
+            "episode": "3x03",
+            "duration": 43,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.17",
+            "title": "Puzzles",
+            "episode": "3x04",
+            "duration": 43,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.01",
+            "title": "Puzzles",
+            "episode": "3x05",
+            "duration": 43,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.08",
+            "title": "Puzzles",
+            "episode": "3x06",
+            "duration": 43,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.15",
+            "title": "Puzzles",
+            "episode": "3x07",
+            "duration": 43,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.22",
+            "title": "Puzzles",
+            "episode": "3x08",
+            "duration": 43,
+            "viewed": true
+        },
+        {
+            "broadcast": "2018.01.12",
+            "title": "Puzzles",
+            "episode": "3x09",
+            "duration": 43,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.19",
+            "title": "Puzzles",
+            "episode": "3x10",
+            "duration": 43,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Puzzles",
+            "episode": "3x11",
+            "duration": 43,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Puzzles",
+            "episode": "3x12",
+            "duration": 43,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Puzzles",
+            "episode": "3x13",
+            "duration": 43,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Puzzles",
+            "episode": "3x14",
+            "duration": 43,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Puzzles",
+            "episode": "3x15",
+            "duration": 43,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Puzzles",
+            "episode": "3x16",
+            "duration": 43,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.09.27",
+            "title": "Spy School",
+            "episode": "5x01",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.04",
+            "title": "Spy School",
+            "episode": "5x02",
+            "duration": 45,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.11",
+            "title": "Spy School",
+            "episode": "5x03",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.18",
+            "title": "Spy School",
+            "episode": "5x04",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.25",
+            "title": "Spy School",
+            "episode": "5x05",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.01",
+            "title": "Spy School",
+            "episode": "5x06",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.08",
+            "title": "Spy School",
+            "episode": "5x07",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.15",
+            "title": "Spy School",
+            "episode": "5x08",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.03",
+            "title": "Spy School",
+            "episode": "5x09",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.10",
+            "title": "Spy School",
+            "episode": "5x10",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.17",
+            "title": "Spy School",
+            "episode": "5x11",
+            "duration": 45,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.12",
+            "title": "Spectacular Power",
+            "episode": "6x01",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.19",
+            "title": "Spectacular Power",
+            "episode": "6x02",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.26",
+            "title": "Spectacular Power",
+            "episode": "6x03",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.02",
+            "title": "Spectacular Power",
+            "episode": "6x04",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.09",
+            "title": "Spectacular Power",
+            "episode": "6x05",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.16",
+            "title": "Spectacular Power",
+            "episode": "6x06",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.23",
+            "title": "Spectacular Power",
+            "episode": "6x07",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.27",
+            "title": "Spectacular Power",
+            "episode": "6x08",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.07",
+            "title": "Spectacular Power",
+            "episode": "6x09",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.18",
+            "title": "Spectacular Power",
+            "episode": "6x10",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Spectacular Power",
+            "episode": "6x11",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Spectacular Power",
+            "episode": "6x12",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Spectacular Power",
+            "episode": "6x13",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "NI",
+            "title": "Spectacular Power",
+            "episode": "6x14",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.09.25",
+            "title": "Upper Story",
+            "episode": "11x01",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.02",
+            "title": "Upper Story",
+            "episode": "11x02",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.09",
+            "title": "Upper Story",
+            "episode": "11x03",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.16",
+            "title": "Upper Story",
+            "episode": "11x04",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.23",
+            "title": "Upper Story",
+            "episode": "11x05",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.02",
+            "title": "Upper Story",
+            "episode": "11x06",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.09",
+            "title": "Upper Story",
+            "episode": "11x07",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.16",
+            "title": "Upper Story",
+            "episode": "11x08",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.30",
+            "title": "Upper Story",
+            "episode": "11x09",
+            "duration": 22,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.07",
+            "title": "Upper Story",
+            "episode": "11x10",
+            "duration": 22,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.14",
+            "title": "Upper Story",
+            "episode": "11x11",
+            "duration": 22,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.04",
+            "title": "Upper Story",
+            "episode": "11x12",
+            "duration": 22,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.11",
+            "title": "Upper Story",
+            "episode": "11x13",
+            "duration": 22,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.09.28",
+            "title": "Chicago Flame",
+            "episode": "6x01",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.05",
+            "title": "Chicago Flame",
+            "episode": "6x02",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.12",
+            "title": "Chicago Flame",
+            "episode": "6x03",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.19",
+            "title": "Chicago Flame",
+            "episode": "6x04",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.26",
+            "title": "Chicago Flame",
+            "episode": "6x05",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.02",
+            "title": "Chicago Flame",
+            "episode": "6x06",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.04",
+            "title": "Chicago Flame",
+            "episode": "6x07",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.11",
+            "title": "Chicago Flame",
+            "episode": "6x08",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.18",
+            "title": "Chicago Flame",
+            "episode": "6x09",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.25",
+            "title": "Chicago Flame",
+            "episode": "6x10",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.02.01",
+            "title": "Chicago Flame",
+            "episode": "6x11",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.09.25",
+            "title": "The Elite Minds",
+            "episode": "4x01",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.02",
+            "title": "The Elite Minds",
+            "episode": "4x02",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.09",
+            "title": "The Elite Minds",
+            "episode": "4x03",
+            "duration": 42,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.10.16",
+            "title": "The Elite Minds",
+            "episode": "4x04",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.23",
+            "title": "The Elite Minds",
+            "episode": "4x05",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.10.30",
+            "title": "The Elite Minds",
+            "episode": "4x06",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.06",
+            "title": "The Elite Minds",
+            "episode": "4x07",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.13",
+            "title": "The Elite Minds",
+            "episode": "4x08",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.20",
+            "title": "The Elite Minds",
+            "episode": "4x09",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.27",
+            "title": "The Elite Minds",
+            "episode": "4x10",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.11",
+            "title": "The Elite Minds",
+            "episode": "4x11",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.18",
+            "title": "The Elite Minds",
+            "episode": "4x12",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.15",
+            "title": "The Elite Minds",
+            "episode": "4x13",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.22",
+            "title": "The Elite Minds",
+            "episode": "4x14",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.01.29",
+            "title": "The Elite Minds",
+            "episode": "4x15",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2018.02.05",
+            "title": "The Elite Minds",
+            "episode": "4x16",
+            "duration": 42,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.11.13",
+            "title": "Shrinktime",
+            "episode": "3x01",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.14",
+            "title": "Shrinktime",
+            "episode": "3x02",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.15",
+            "title": "Shrinktime",
+            "episode": "3x03",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.16",
+            "title": "Shrinktime",
+            "episode": "3x04",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.17",
+            "title": "Shrinktime",
+            "episode": "3x05",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.20",
+            "title": "Shrinktime",
+            "episode": "3x06",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.21",
+            "title": "Shrinktime",
+            "episode": "3x07",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.22",
+            "title": "Shrinktime",
+            "episode": "3x08",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.23",
+            "title": "Shrinktime",
+            "episode": "3x09",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.24",
+            "title": "Shrinktime",
+            "episode": "3x10",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.27",
+            "title": "Shrinktime",
+            "episode": "3x11",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.28",
+            "title": "Shrinktime",
+            "episode": "3x12",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.29",
+            "title": "Shrinktime",
+            "episode": "3x13",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.11.30",
+            "title": "Shrinktime",
+            "episode": "3x14",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.01",
+            "title": "Shrinktime",
+            "episode": "3x15",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.04",
+            "title": "Shrinktime",
+            "episode": "3x16",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.05",
+            "title": "Shrinktime",
+            "episode": "3x17",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.06",
+            "title": "Shrinktime",
+            "episode": "3x18",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.07",
+            "title": "Shrinktime",
+            "episode": "3x19",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.08",
+            "title": "Shrinktime",
+            "episode": "3x20",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.11",
+            "title": "Shrinktime",
+            "episode": "3x21",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.12",
+            "title": "Shrinktime",
+            "episode": "3x22",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.13",
+            "title": "Shrinktime",
+            "episode": "3x23",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.14",
+            "title": "Shrinktime",
+            "episode": "3x24",
+            "duration": 27,
+            "viewed": true
+        },
+        {
+            "broadcast": "2017.12.15",
+            "title": "Shrinktime",
+            "episode": "3x25",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.18",
+            "title": "Shrinktime",
+            "episode": "3x26",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.19",
+            "title": "Shrinktime",
+            "episode": "3x27",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.20",
+            "title": "Shrinktime",
+            "episode": "3x28",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.21",
+            "title": "Shrinktime",
+            "episode": "3x29",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.22",
+            "title": "Shrinktime",
+            "episode": "3x30",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.25",
+            "title": "Shrinktime",
+            "episode": "3x31",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.26",
+            "title": "Shrinktime",
+            "episode": "3x32",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.27",
+            "title": "Shrinktime",
+            "episode": "3x33",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.28",
+            "title": "Shrinktime",
+            "episode": "3x34",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.29",
+            "title": "Shrinktime",
+            "episode": "3x35",
+            "duration": 27,
+            "viewed": false
+        },
+        {
+            "broadcast": "2017.12.26",
+            "title": "Perfectly Numb",
+            "episode": "1x01",
+            "duration": 60,
+            "viewed": false
+        }
+    ]
+}
