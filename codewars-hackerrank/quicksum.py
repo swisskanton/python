@@ -29,7 +29,7 @@ AbqTH #5 = 0
 
 
 def quicksum(packet):
-    return sum([(i+1) * (ord(c) - 64) for i, c in enumerate(packet) if c is not ' ']) \
+    return sum([(i+1) * (ord(c) - 64) for i, c in enumerate(packet) if c != ' ']) \
         if packet.isupper() and packet.replace(' ', '').isalpha() else 0
 
 
